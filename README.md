@@ -1,5 +1,4 @@
-# eye_disease_clasification
-model untuk klasifikasi penyakit pada mata 
+# eye_disease_clasification_using_InceptionV3
 
 **Project Objective:  Klasifikasi Gambar**
 
@@ -7,7 +6,7 @@ model untuk klasifikasi penyakit pada mata
 Tujuan dari proyek ini adalah untuk membuat sistem kklasifikasi gambar medis (penyakit pada mata). Sistem akan mengambil sekumpulan gambar sebagai input, menggunakan model deep learning yang telah dilatih sebelumnya (InceptionV3) untuk mengklasifikasikan objek dalam gambar, lalu kelas dan probabilitas yang diprediksi.
 
 **Libraries Used:**
-1. **TensorFlow and Keras:**Digunakan untuk pembelajaran mendalam, khususnya untuk tugas klasifikasi gambar.
+1. **TensorFlow and Keras:** Digunakan untuk pembelajaran mendalam, khususnya untuk tugas klasifikasi gambar.
 2. **Pandas:** Digunakan untuk membuat dan menampilkan hasil dalam format tabel.
 3. **Matplotlib:** Digunakan untuk memvisualisasikan gambar dan prediksinya 
 4. **Numpy:** Library utama untuk komputasi numerik di Python.
